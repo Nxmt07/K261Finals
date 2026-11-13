@@ -1,0 +1,809 @@
+--- PAGE 1 ---
+1/7/2022
+1
+1
+Chapter 1
+Electronic Structure of Atoms
+GENERAL CHEMISTRY
+2
+9 Elements are able to be subdivided into smaller
+particles – these are the atoms, and they still have
+properties of that element.
+9 Dalton’s atomic theory: atoms are divisible into
+subatomic
+particles:
+Electrons,
+protons,
+and
+neutrons.
+Defining the Atom
+1
+2
+
+
+--- PAGE 2 ---
+1/7/2022
+2
+3
+Discovery of the Electron
+In 1897, J.J. Thomson used a cathode ray tube to 
+deduce the presence of a negatively charged 
+particle: the electron
+4
+Mass of the Electron
+1916 – Robert
+Millikan determines the mass of
+the
+electron: 1/1840 the mass of a hydrogen atom; has one
+unit of negative charge .
+The oil drop apparatus
+Mass of the 
+electron is 
+9.11 x 10-28 g
+3
+4
+
+
+--- PAGE 3 ---
+1/7/2022
+3
+5
+Conclusions from the Study 
+lusions from the S
+of the Electron
+9 All elements must contain identically charged electrons.
+9 Electrons have so little mass that atoms must contain
+other particles that account for most of the mass.
+9 Atoms are neutral, so there must be positive particles in
+the
+atom
+to
+balance
+the
+negative
+charge
+of
+the
+electrons.
+9 The “proton” - particles with a positive charge.
+9 The “neutron” – a particle with no charge.
+6
+Particle
+Charge
+Mass (g)
+Location
+Electron
+(e-)
+-1
+9.11 x 10-28
+Electron 
+cloud
+Proton
+(p+)
++1
+1.67 x 10-24
+Nucleus
+Neutron
+(no)
+0
+1.67 x 10-24
+Nucleus
+Conclusions from the Study 
+of the Electron
+5
+6
+
+
+--- PAGE 4 ---
+1/7/2022
+4
+7
+Rutherford’s Findings
+9
+The nucleus is small
+9
+The nucleus is dense
+9
+The nucleus is positively charged
+8
+Complete Symbols
+Contain
+the
+symbol
+of
+the element,
+the
+mass
+number and the atomic number.
+X
+Mass
+number
+Atomic
+number
+Subscript →
+Superscript →
+7
+8
+
+
+--- PAGE 5 ---
+1/7/2022
+5
+9
+Symbols
+Find each of these: 
+a) Number of protons
+b)
+Number of neutrons
+c)
+Number of electrons
+d)
+Atomic number
+e)
+Mass Number
+Cl
+35
+17
+C
+12
+6
+Br
+80
+35
+10
+Symbols
+If an element has  an atomic number of  34 
+and a mass number of 78, what is the: 
+a) Number of protons
+b) Number of neutrons
+c) Number of electrons
+d) Complete symbol
+e
+S
+78
+34
+9
+10
+
+
+--- PAGE 6 ---
+1/7/2022
+6
+11
+If an element has  91 protons and 140 
+neutrons what is the 
+a) Atomic number
+b)
+Mass number
+c)
+number of electrons
+d)
+complete symbol
+Symbols
+12
+If an element has  78 electrons and 117 
+neutrons what is the 
+a) Atomic number
+b)
+Mass number
+c)
+number of protons
+d)
+complete symbol
+Symbols
+11
+12
+
+
+--- PAGE 7 ---
+1/7/2022
+7
+13
+ Frederick Soddy (1877-1956) proposed 
+the idea of isotopes in 1912.
+ Isotopes are atoms of the same element 
+having different masses, due to varying 
+numbers of neutrons.
+Isotopes
+14
+Isotope
+Protons
+Electrons
+Neutrons
+Nucleus
+Hydrogen
+en–
+n–1
+y
+g
+(protium)
+1
+1
+0
+Hydrogen
+en-
+n-2
+y
+g
+(deuterium)
+1
+1
+1
+Hydrogen
+en-
+n-3
+y
+g
+(tritium)
+1
+1
+2
+Naming Isotopes
+13
+14
+
+
+--- PAGE 8 ---
+1/7/2022
+8
+15
+16
+Atomic Mass
+ We are more concerned with the average atomic mass.
+ This is based on the abundance (percentage) of each 
+variety of that element in nature.
+¾ We don’t use grams for this mass because the numbers would be 
+too small.
+¾ The mass of the isotope is expressed in atomic mass units (amu) 
+15
+16
+
+
+--- PAGE 9 ---
+1/7/2022
+9
+17
+EXAMPLE:
+Oxygen
+16O (99.762 %), 17O (0.038 %) and  
+18O (0.200 %).
+ÆAtomic mass (in amu)?
+n
+n
+n
+x
+x
+x
+x
+x
+M
+x
+M
+x
+M
+x
+M
+M
+
+
+
+
+
+
+
+
+ 
+...
+...
+3
+2
+1
+3
+3
+2
+2
+1
+1
+The atomic mass of element:
+To calculate the average:
+18
+Atomic Masses
+Isotope
+Symbol
+Composition of the 
+nucleus
+% in nature
+Carbon-12
+12C
+6 protons
+6 neutrons
+98.89%
+Carbon-13
+13C
+6 protons
+7 neutrons
+1.11%
+Carbon-14
+14C
+6 protons
+8 neutrons
+<0.01%
+Atomic mass is the average of all the naturally occurring 
+isotopes of that element.
+Carbon = 12.011
+17
+18
+
+
+--- PAGE 10 ---
+1/7/2022
+10
+19
+Atomic Masses
+Atomic weight =24.30 amu
+EXAMPLE 5-2
+Three isotopes of magnesium occur in nature. Their
+abundances and masses are listed in the following table.
+calculate the atomic weight of magnesium.
+20
+Modern Atomic Theory 
+19
+20
+
+
+--- PAGE 11 ---
+1/7/2022
+11
+21
+ Heisenberg’s Uncertainty Principle: It is impossible to
+determine accurately both the momentum and the position
+of
+an
+electron
+(or
+any
+other
+very
+small
+particle)
+simultaneously.
+ 'x is the uncertainty in position and 'mv is the uncertainty
+in momentum, then:
+The Uncertainty Principle
+S
+Q
+4
+h
+m
+x
+t
+'
+
+'
+22
+ Schrödinger proposed an equation that contains both
+wave and particle terms.
+ Solving the equation leads to wave functions.
+ The wave function gives the shape of the electronic
+orbital.
+ The square of the wave function (\2) gives the probability
+of finding the electron. That is, gives the electron density
+for the atom.
+Quantum Mechanics and 
+antum Mechanics a
+Atomic Orbitals
+21
+22
+
+
+--- PAGE 12 ---
+1/7/2022
+12
+23
+24
+Electron Density Distribution 
+Probability of finding an electron in a hydrogen atom
+in its ground state.
+23
+24
+
+
+--- PAGE 13 ---
+1/7/2022
+13
+25
+ Schrödinger’s equation requires 3 quantum
+numbers:
+9
+Principal Quantum Number, n (sốlượng tửchính).
+9
+Azimuthal Quantum Number, l (sốlượng tửorbital).
+9
+Magnetic Quantum Number, ml (sốlượng tửtừ)
+The Three Quantum Numbers
+26
+ Principal Quantum Number, n:
+9
+The same as Bohr’s n.
+9
+n, describes the main energy level, or shell, an electron
+occupies.
+9
+As n becomes larger, the atom becomes larger
+9
+n = 1, 2, 3…
+The Principal Quantum Numbers
+25
+26
+
+
+--- PAGE 14 ---
+1/7/2022
+14
+27
+ Azimuthal Quantum Number or angular momentum
+quantum number, l:
+9
+Designates a sublevel, or specific shape of atomic orbital
+that an electron may occupy.
+9
+May take integral values from 0 up to and including (n-
+1): l=0y(n - 1).
+9
+We give a letter notation to each value of l. Each
+letter corresponds to a different sublevel (subshell).
+The Azimuthal Quantum Number, l
+28
+The Azimuthal Quantum Number, l
+27
+28
+
+
+--- PAGE 15 ---
+1/7/2022
+15
+29
+ Magnetic Quantum Number, ml:
+9
+Designates the specific orbital within a subshell.
+9
+Within each subshell, ml may take any integral
+values from –l through zero up to and including +l.
+9
+The maximum value of ml depends on l.
+9
+ml = (- l) y (+ l).
+9
+Magnetic quantum numbers give the 3D orientation
+of each orbital in space. (m = - l …0…+ l)
+The Magnetic Quantum Number, ml
+30
+ For example: l= 1
+9
+designates the p subshell,
+9
+ml: -1, 0, and +1.
+9
+Thus, three distinct regions of space, called atomic
+orbitals, are associated with a p subshell.
+9
+We refer to these orbitals as the px, py, and pz
+orbitals
+The Magnetic Quantum Number, ml
+29
+30
+
+
+--- PAGE 16 ---
+1/7/2022
+16
+31
+ Spin Quantum Number, ms:
+9
+Rrefers to the spin of an electron and the orientation of
+the magnetic field produced by this spin.
+9
+For every set of n, l and ml values, ms can take the
+value + ½ or - ½.
+The Spin Quantum Number, ms
+32
+ Two spots were found: one with the electrons
+spinning in one direction and one with the
+electrons spinning in the opposite direction.
+Electron Spin
+ ms (spin quantum number ) = r ½.
+31
+32
+
+
+--- PAGE 17 ---
+1/7/2022
+17
+33
+Orbitals and Quantum Numbers
+34
+Class Guided Practice Problem
+ (a) For n = 4, what are the possible values of l? (b) For 
+l = 2. What are the possible values of m l? What are 
+the representative orbital for the value of l in (a)?
+ (c) How many possible values for l and m l are there 
+when n = 3;  n = 5?
+Class Practice Problem
+33
+34
+
+
+--- PAGE 18 ---
+1/7/2022
+18
+35
+Class Guided Practice Problem
+36
+Class Guided Practice Problem
+(Z=52)
+35
+36
+
+
+--- PAGE 19 ---
+1/7/2022
+19
+37
+ All s-orbitals are spherical.
+ As n increases, the s-orbitals get larger.
+Representations of Orbitals 
+The s-Orbitals
+38
+The s-Orbitals
+37
+38
+
+
+--- PAGE 20 ---
+1/7/2022
+20
+39
+ There are three p-orbitals px, py, and pz.  
+ The three p-orbitals lie along the x-, y- and z- axes of 
+a Cartesian coordinates.  
+The p-Orbitals
+40
+ The letters correspond to allowed values of ml of -1, 
+0, and +1.
+ The orbitals are dumbbell shaped.
+ As n increases, the p-orbitals get larger.
+ All p-orbitals have a node at the nucleus. 
+The p-Orbitals
+39
+40
+
+
+--- PAGE 21 ---
+1/7/2022
+21
+41
+ There are five d and seven f-orbitals. 
+¾ Three of the d-orbitals lie in a plane bisecting the x-, 
+y- and z-axes.
+The d and f-Orbitals
+42
+¾ Two of the d-orbitals lie in a plane aligned along the 
+x-, y- and z-axes.
+¾ Four of the d-orbitals (dxy, dxz, dyz, dx2-y2) have four 
+lobes each.
+¾ Other d-orbital (dz2) has two lobes and a collar.
+The d-Orbitals
+41
+42
+
+
+--- PAGE 22 ---
+1/7/2022
+22
+43
+ Electron configurations tells us in which orbitals
+the electrons for an element are located.
+ Three rules:
+¾
+Aufbau principle (German aufbauen, "to build up")
+¾
+Pauli’s Exclusions Principle
+¾
+Hund’s rule.
+Electron Configurations
+44
+¾
+Electrons fill orbitals starting with lowest n and moving
+upwards.
+Aufbau principle
+Two general rules help us to predict electron configurations:
+¾
+Electrons are assigned to orbitals in order of increasing
+value of (n+l).
+¾
+For subshells with the same value of (n+l), electrons are
+assigned first to the subshell with lower n.
+43
+44
+
+
+--- PAGE 23 ---
+1/7/2022
+23
+45
+Aufbau diagram
+1. The largest energy gap is between 
+the 1s and 2s orbital
+2. The gap between np and (n+1)s is 
+fairly large.
+3. The gap between (n-1)d and ns is 
+quite small.
+4. The gap between (n-2)f and ns is 
+even smaller.
+46
+When
+subshells
+have
+the
+same
+(n+l), the subshell
+with the lower n fill
+first.
+1 
+2 
+3 
+45
+46
+
+
+--- PAGE 24 ---
+1/7/2022
+24
+47
+ Pauli’s Exclusions Principle: no two electrons
+can have the same set of 4 quantum numbers.
+¾
+Therefore, two electrons in the same orbital must
+have opposite spins.
+The Pauli Exclusion Principle
+Example: (He, Z=2)
+Quantum numbers
+n
+l
+ml
+s
+e1
+1
+0
+0
+1/2
+e2
+1
+0
+0
+-1/2
+48
+Example:
+Which
+of
+the
+following
+orbital
+diagrams
+or
+electron
+configurations are possible and which are impossible,
+according to the Pauli exclusion principle? Explain.
+The Pauli Exclusion Principle
+47
+48
+
+
+--- PAGE 25 ---
+1/7/2022
+25
+49
+Hund’s rule: The lowest energy arrangement of electron in
+a subshell is obtained by putting electrons into separate
+orbitals of the subshell with the same spin before pairing
+electrons.
+¾
+Electrons fill each orbital singly before any orbital gets
+a second electron.
+Hund’s Rule
+Example: The Orbital diagram for the ground state of the Nitrogen 
+(Z=7 )
+1s 2s
+2p
+50
+Hund’s Rule
+Example:  The Orbital diagram for the ground state of the Oxygen 
+atom(Z=8 )
+49
+50
+
+
+--- PAGE 26 ---
+1/7/2022
+26
+51
+Hund’s Rule
+52
+Class Guided Practice Problem
+ Write the electron configurations for the following 
+atoms:  (a) Cs (z=55) and  (b) Ni (z=28)
+Class Practice Problem
+ Write the electron configurations for the following 
+atoms:  (a) Se (z=34) and (b) Pb (z=82)
+51
+52
+
+
+--- PAGE 27 ---
+1/7/2022
+27
+53
+Problem
+Use the building-up principle to obtain the configuration for
+the ground state of the Gallium atom (Z=31). Give the
+configuration in the complete form (do not abbreviate for the
+core). What is the valance-shell configuration?
+Solution
+¾ Using the aufbau principle and fill the subshells with
+electrons to distribute
+1s2
+2s2 2p6 3s2 3p6 4s2 3d10 4p1
+¾Or rearrange the subshells by shells:
+1s2
+2s2 2p6 3s2 3p6 3d10 4s2 4p1
+Æ Valance-shell: 4s2 4p1
+54
+ Neon completes the 2p subshell.
+ Sodium marks the beginning of a new row.
+ So, we write the condensed electron configuration for 
+sodium as
+¾ Na: [Ne] 3s1
+ [Ne] represents the electron configuration of neon.
+ Core electrons: electrons in [Noble Gas].
+ Valence electrons: electrons outside of [Noble Gas].
+Condensed Electron 
+Configurations
+53
+54
+
+
+--- PAGE 28 ---
+1/7/2022
+28
+55
+The inner electrons are known as core electrons
+56
+55
+56
+
+
+--- PAGE 29 ---
+1/7/2022
+29
+57
+58
+57
+58
+
+
+--- PAGE 30 ---
+1/7/2022
+30
+59
+ The periodic table can be used as a guide for 
+electron configurations.
+ The period number is the value of n.
+ Groups 1A and 2A (1 & 2) have the s-orbital filled.
+ Groups 3A - 8A (13 - 18) have the p-orbital filled.
+ Groups 3B - 2B (3 - 12) have the d-orbital filled.
+ The lanthanides and actinides have the f-orbital filled.
+Electron Configurations and the 
+Periodic Table
+59
+
+

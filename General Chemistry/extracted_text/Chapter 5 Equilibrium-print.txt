@@ -1,0 +1,422 @@
+--- PAGE 1 ---
+1/7/2022
+1
+1
+Chapter 5
+Chemical Equilibrium
+GENERAL CHEMISTRY
+2
+OUTLINE
+9Basic concepts
+9The equilibrium constant
+9LeChatelier’s Principle
+9Relationship between  Kp &Kc
+9Relationship between 'G0
+rxn and K
+9Evaluation of K at difference temperature.
+1
+2
+
+
+--- PAGE 2 ---
+1/7/2022
+2
+3
+Basic concepts
+Reversible reactions:
+9Reactions that do not go to completion and that can occur
+in either direction.
+9Both
+the
+forward
+and
+reverse
+reactions
+occur
+simultaneously.
+aA+bB
+cC+ dD
+In the balanced equation:
+9“a, b, c, d” represent the stoichiometric coefficients
+9A, B are called the “reactants”
+9C, D are called the “products.”
+9The double arrow (
+) indicates that the reaction is
+reversible
+4
+Chemical equilibrium exists when two opposing reactions 
+occur simultaneously at the same rate.
+Basic concepts
+3
+4
+
+
+--- PAGE 3 ---
+1/7/2022
+3
+5
+The equilibrium constant
+ For a general reaction in the gas phase:
+9 The equilibrium constant expression is:
+9Keq is the equilibrium constant.
+9The subscript “eq” to emphasize that partial pressure in
+the
+equilibrium
+constant
+expression
+are
+those
+at
+equilibrium.
+aA (g)+bB (g)        cC (g)+ dD (g)
+b
+a
+d
+c
+eq
+P
+P
+P
+P
+K
+B
+A
+D
+C
+u
+u
+ 
+6
+ For a general reaction: 
+Kc values always involve equilibrium values  of concentrations.
+The equilibrium constant
+5
+6
+
+
+--- PAGE 4 ---
+1/7/2022
+4
+7
+ The equilibrium constant Keq has no units.
+ The value of Keq:
+9
+Is constant at a given temperature,
+9
+Changes if the temperature changes,
+9
+Does not depend on the initial concentrations.
+9
+Kc>1: most of the reactants would be converted into
+products, we called a reaction “product-favored.”
+9
+Kc<1: most of the reactants remain and only small
+amounts of products are formed.
+The equilibrium constant
+8
+The equilibrium constant
+Example:
+7
+8
+
+
+--- PAGE 5 ---
+1/7/2022
+5
+9
+The equilibrium constant
+10
+Variation of Kc
+ The value of Kc depends on the form of the balanced equation 
+for the reaction. 
+ If an equation for a reaction is multiplied by any factor, n,
+then the original value of Kc is raised to the nth power.
+9
+10
+
+
+--- PAGE 6 ---
+1/7/2022
+6
+11
+Variation of Kc
+12
+Calculating g Keq
+ In one of their experiments, Harber and co-workers
+introduced a mixture of hydrogen and nitrogen into a
+reaction vessel and allowed the system to
+attain
+chemical equilibrium at 472oC. The equilibrium mixture
+of gases was analyzed and found to contain 0.1207 M H2,
+0.0402 M N2, and 0.00272 M NH3. From these data,
+calculate the equilibrium constant, Keq, for
+N2(g) + 3H2(g)      2NH3(g)
+11
+12
+
+
+--- PAGE 7 ---
+1/7/2022
+7
+13
+ Gaseous Hydrogen iodide is placed in a closed container 
+at 425 oC, where it partially decomposes to hydrogen and 
+iodine: 2HI (g)         H2(g) + I2(g).  At equilibrium, it is 
+found that [HI] = 3.35u10-3M; [H2] = 4.79 u 10-4M; [I2] 
+= 4.79 u 10-4M.  What is the value of Keq at this 
+temperature.
+ A mixture of 0.100 mole of NO, 0.050 mole of H2, and 
+0.050 mole of H2O is placed in a 1.00-L vessel.  The 
+following equilibrium is established: 
+2NO(g) + 2H2(g)     N2(g) + 2H2O(g)
+Calculate the Keq for the reaction.
+Calculating g Keq
+14
+Enough ammonia is dissolved in 5.00 liters of water at
+25oC to produce a solution that is 0.0124 M in ammonia.
+The solution is then allowed to come to equilibrium.
+Analysis of the equilibrium mixture shows that the
+concentration of OH- is 4.64 x 10-4M. Calculate Keq at 25
+oC for the reaction.
+NH3(aq) + H2O(l)           NH4
++(aq) + OH-(aq)
+Calculating g Keq
+13
+14
+
+
+--- PAGE 8 ---
+1/7/2022
+8
+15
+ A mixture of 5.00 x 10-3 mol of H2 and 1.00 x 10-2 mol of
+I2 is placed in a 5.00 L container at 448 oC and allowed to
+come to equilibrium. Analysis of the equilibrium mixture
+shows that the concentration of HI is 1.87 x 10-3 M.
+Calculate the Kc at 448 oC for the reaction.
+H2(g) + I2(g)
+2HI(g)
+Calculating g Keq
+Keq=50.51
+16
+ Sulfur trioxide decomposes at high temperature in a
+sealed container:
+2SO3(g)
+2SO2(g) + O2(g).
+Initially the vessel is charged at 1000K with SO3(g) at a
+concentration of 6.09 x 10-3 M. At equilibrium, the SO3
+concentration is 2.44 x 10-3 M. Calculate the value for
+Keq at 1000 K.
+Calculating g Keq
+15
+16
+
+
+--- PAGE 9 ---
+1/7/2022
+9
+17
+The reaction quotient
+ The reaction quotient, Q, for the general reaction is given as 
+follows:
+18
+9 Q < Kc: Forward reaction predominates until
+equilibrium is established.
+9 Q = Kc: System is at equilibrium.
+9 Q
+>
+Kc:
+Reverse
+reaction
+predominates
+until
+equilibrium is established.
+The reaction quotient
+17
+18
+
+
+--- PAGE 10 ---
+1/7/2022
+10
+19
+9 The system is not at equilibrium the forward reaction must
+occur to a greater extent than the reverse reaction;
+9 Some HI must react to form more H2 and I2 to reach equilibrium
+The reaction quotient
+Q < Kc
+20
+ At 448 oC the equilibrium constant, Keq, for the reaction:
+H2(g) + I2(g)
+2HI (g) is 50.5. Predict how the reaction
+will proceed to reach equilibrium at 448 oC if we start
+with 2.0 x 10-2 mol of HI, 1.0 x 10-2 mol of H2, and
+3.0u10-2 mol of I2 in a 2.0L container.
+The reaction quotient
+19
+20
+
+
+--- PAGE 11 ---
+1/7/2022
+11
+21
+LeChatelier’s Principle
+LeChatelier’s Principle (is pronounced “le-SHOT-lee-ay.”) 
+LeChatelier’s Principle:
+If a change of conditions (stress) is applied to a system at
+equilibrium, the system shifts in the direction that reduces the
+stress to move toward a new state of equilibrium.
+Three types of changes can disturb the equilibrium of a
+reaction:
+1.Changes in concentration
+2.Changes in pressure or volume (for reactions that involve gases)
+3.Changes in temperature.
+22
+ Changes in Concentration:
+FACTORS THAT AFFECT EQUILIBRIA
+21
+22
+
+
+--- PAGE 12 ---
+1/7/2022
+12
+23
+ Changes in Concentration:
+9 Adding a reactant or product shifts the equilibrium away
+from the increase.
+9 Removing a reactant or product shifts the equilibrium
+towards the decrease.
+9 To optimize the amount of product at equilibrium, we
+need to flood the reaction vessel with reactant and
+continuously remove product (LeChatelier’s Principle).
+FACTORS THAT AFFECT EQUILIBRIA
+24
+FACTORS THAT AFFECT EQUILIBRIA
+23
+24
+
+
+--- PAGE 13 ---
+1/7/2022
+13
+25
+ Changes in Volume and Pressure:
+FACTORS THAT AFFECT EQUILIBRIA
+26
+ Changes in Volume and Pressure:
+9If there is no change in the total number of moles of gases, a
+volume (pressure) change does not affect the position of
+equilibrium.
+9If changing in the total number of moles of gases:
+
+A decrease in volume (increase in pressure) shifts a
+reaction in the direction that produces the smaller total
+number of moles of gas.
+
+An increase in volume (decrease in pressure) shifts a
+reaction in the direction that produces the larger total
+number of moles of gas.
+FACTORS THAT AFFECT EQUILIBRIA
+25
+26
+
+
+--- PAGE 14 ---
+1/7/2022
+14
+27
+ Changes in Temperature:
+9 Adding heat (i.e. heating the vessel) favors away from 
+the increase:
+ if 'H > 0, adding heat favors the forward reaction.
+ if 'H < 0, adding heat favors the reverse reaction.
+9 Removing heat (i.e. cooling the vessel), favors towards 
+the decrease:
+ if 'H > 0, cooling favors the reverse reaction.
+ if 'H < 0, cooling favors the forward reaction.
+FACTORS THAT AFFECT EQUILIBRIA
+28
+ Addition of a Catalyst:
+9 A catalyst lowers the activation energy barrier for the reaction.
+9 Therefore, a catalyst will decrease the time taken to reach
+equilibrium.
+9 A catalyst does not effect the composition of the equilibrium
+mixture.
+FACTORS THAT AFFECT EQUILIBRIA
+27
+28
+
+
+--- PAGE 15 ---
+1/7/2022
+15
+29
+RELATIONSHIP BETWEEN Kp & Kc
+In general, the relationship between Kc and KP is: 
+Be Careful About the Value of R
+K
+mol
+atm
+L
+R
+.
+.
+082
+.0
+ 
+30
+HETEROGENEOUS EQUILIBRIA
+9Heterogeneous equilibria involve species in more than one phase.
+9Example:
+9Pure liquids and pure solids do not appear in the K expressions 
+for heterogeneous equilibria.
+29
+30
+
+
+--- PAGE 16 ---
+1/7/2022
+16
+31
+HETEROGENEOUS EQUILIBRIA
+32
+RELATIONSHIP BETWEEN 
+N 'G0
+G0rxn & K
+31
+32
+
+
+--- PAGE 17 ---
+1/7/2022
+17
+33
+RELATIONSHIP BETWEEN 
+N 'G0
+G0rxn & K
+34
+RELATIONSHIP BETWEEN 
+N 'G0
+G0rxn & K
+33
+34
+
+
+--- PAGE 18 ---
+1/7/2022
+18
+35
+Evaluation of K at difference temperature
+ The van’t Hoff equation
+36
+Evaluation of K at difference temperature
+Example:
+We found that Kp =4.4u10-31 at 25°C (298 K) for the following
+reaction, 'H0=180.5 kJ/mol for this reaction. Evaluate Kp at
+2400K.
+35
+36
+
+

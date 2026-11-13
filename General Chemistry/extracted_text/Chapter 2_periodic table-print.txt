@@ -1,0 +1,496 @@
+--- PAGE 1 ---
+1/7/2022
+1
+1
+Chapter 2
+p
+Chemical periodicity
+GENERAL CHEMISTRY
+2
+The Periodic Table
+1
+2
+
+
+--- PAGE 2 ---
+1/7/2022
+2
+3
+The Periodic Table
+• Columns in the periodic table are called groups or
+families (IA, IIA, IIIByVIIIB, IB, IIB, IIIA yVIIIA ).
+• Rows in the periodic table are called periods
+(n=1y7, n is also the Principal quantum number).
+• Elements in a group have similar chemical and
+physical properties and those within periods have
+properties that change progressively across the
+table.
+• About 80% of the elements are metals.
+4
+The Periodic Table
+• Metals are located on the left hand side of the
+periodic table (most of the elements are metals).
+• Non-metals are located in the top right hand side of
+the periodic table.
+• Elements with properties similar to both metals and
+non-metals are called metalloids and are located at
+the interface between the metals and non-metals.
+3
+4
+
+
+--- PAGE 3 ---
+1/7/2022
+3
+5
+Properties of The Periodic Table
+• Some of the groups in the periodic table are given
+special names.
+• These
+names
+indicate
+the
+similarities
+between
+group members:
+9
+Group 1A: Alkali metals.
+9
+Group 2A: Alkaline earth metals.
+9
+Group 6A: Chalcogens.
+9
+Group 7A: Halogens.
+9
+Group 8A: Noble gases.
+6
+9 Period 1: H (1s1) & He (1s2).
+9 Periods 2 &3: 8 elements in each period,
+2s1 Æ 2s22p6, 3s1 Æ 3s23p6
+9 Periods 4 &5 :18 elements in each period : 2 (s)
++ 10 (d) + 6 (p).
+Æ 2(ns1,2) + 10 ns2(n-1)d1y10 +6 (np1y6)
+Properties of The Periodic Table
+5
+6
+
+
+--- PAGE 4 ---
+1/7/2022
+4
+7
+Properties of The Periodic Table
+9 Period 6 : 32 elements
+2(s)+14(f)+10(d)+6(p)
+Æ 2(6s1,2) + 14 (6s2 4f1y14)+10(6s2 5d1y10)+6 (p1y6)
+9 Period 7 : 31 elements (7 elements in A group,
+10 d-elements and 14 Lathanit elements.
+8
+7
+8
+
+
+--- PAGE 5 ---
+1/7/2022
+5
+9
+10
+ THE A GROUPS ELEMENT (IA-VIIIA):
+9 The A groups contain elements in which s and
+p orbitals are being filled.
+9 Elements within any particular A group have
+similar electron configurations and chemical
+properties.
+9 As the valence-shell configuration of nsa or
+ns2npb that element is so called s-element or p-
+element, respectively.
+Properties of The Periodic Table
+9
+10
+
+
+--- PAGE 6 ---
+1/7/2022
+6
+11
+ THE A GROUPS ELEMENT (IA-VIIIA):
+9 Lithium, sodium, and potassium: have a single
+electron in their outermost sorbital (ns1)- Group
+IA.
+9 Beryllium and magnesium have two electrons
+in their outermost shell, ns2- Group IIA.
+9 Boron and aluminum have three electrons in
+their outermost shell, ns2np1- Group IIIA.
+Properties of The Periodic Table
+12
+THE A GROUPS ELEMENT (IA-VIIIA):
+9 The valence-shell configuration of main group
+is nsanpb:
+¾ n: the principle quantum number of the outer shell
+(the period number for the element).
+9 Group number = a+b.
+Properties of The Periodic Table
+11
+12
+
+
+--- PAGE 7 ---
+1/7/2022
+7
+13
+Group
+s-, p-element
+I A
+ns1
+IIA
+ns2
+IIIA
+ns2np1
+IVA
+ns2np2
+VA
+ns2np3
+VIA
+ns2np4
+VIIA
+ns2np5
+VIIIA
+ns2np6
+Properties of The Periodic Table
+Example:
+n=4,
+number
+of
+valance electron is 3.
+Valance-shell
+configuration?
+4s24p1
+14
+ THE B GROUPS ELEMENT (IB-VIIIB):
+9 The B groups are those in which there are one
+or
+two
+electrons
+in
+the
+s
+orbital
+of
+the
+outermost occupied shell, and the d orbitals,
+one shell smaller, are being filled.
+9 Example: (n-1)d1ns2, (n-1)d5ns1.
+9 Elements in the B groups are known as the d-
+transition elements or transition elements or
+transition metals.
+Properties of The Periodic Table
+13
+14
+
+
+--- PAGE 8 ---
+1/7/2022
+8
+15
+Group d-element
+IB
+(n-1)d10ns1
+IIB
+(n-1)d10ns2
+IIIB
+(n-1)d1ns2
+IVB
+(n-1)d2ns2
+VB
+(n-1)d3ns2
+VIB
+(n-1)d5ns1
+VIIB
+(n-1)d5ns2
+VIIIB
+(n-1)d6,7,8ns2
+Properties of The Periodic Table
+9ns2(n-1)d4ons1(n-1)d5
+9ns2(n-1)d9 ons1(n-1)d10
+16
+9f-Transition Elements:
+¾ Electrons are being added to f orbitals.
+¾ All are metals.
+¾ The f-transition elements are located between Groups
+IIIB and IVB in the periodic table.
+Properties of The Periodic Table
+ THE B GROUPS ELEMENT (IB-VIIIB):
+15
+16
+
+
+--- PAGE 9 ---
+1/7/2022
+9
+17
+Trends in The Periodic Table
+1. Atomic radius
+2. Ionic radius
+3. Ionization energy
+4. Electron affinity
+18
+Atomic Radius
+ Two
+factors
+that
+determine
+the
+size
+of
+the
+outermost orbital: n and the effective nuclear
+charge.
+Zeff = Z - S
+where
+Zeff => effective nuclear charge,
+Z
+=> nuclear charge, atomic number
+S
+=> shielding constant.
+Effective nuclear charge is the positive charge that an electron
+experiences from the nucleus, equal to nuclear charge but
+reduced by any shielding of screening from any intervening
+electron distribution.
+17
+18
+
+
+--- PAGE 10 ---
+1/7/2022
+10
+19
+Atomic Radius
+ Increase top to bottom down a group
+The effective nuclear charge remains nearly constant, but n 
+gets largerÆ the atomic radius increases.
+ Increases from upper right corner to the lower left corner
+ Decrease left to right across a period:
+Principal
+quantum number
+of
+outer
+orbitals
+remains
+constant. The effective nuclear charge increases, because
+the nuclear charge increases and the number of core
+electrons remain constantÆ pulling electrons towards the
+nucleus, decreasing size
+20
+Atomic Radius
+19
+20
+
+
+--- PAGE 11 ---
+1/7/2022
+11
+21
+Atomic Radius
+Increase
+Decrease
+22
+Atomic Radius vs. Atomic Number
+21
+22
+
+
+--- PAGE 12 ---
+1/7/2022
+12
+23
+Atomic Radius
+Example:
+Arrange the following elements in order of increasing atomic 
+radii. Justify your order.
+55Cs, 9F, 19K, 17Cl
+Sol.:
+F and Cl are in group VIIA: F<Cl
+Na and Cl are in period 3: Na>Cl.
+Na, K and Cs are in group IA: Na<F<Cs
+Thus:
+F<Cl< K< Cs
+24
+Atomic Radius
+Problem:
+Arrange the following elements in order of increasing atomic 
+radii. Justify your order.
+a) Al (z=13), C (z=6), Si (z=14)
+b) Na (z=11), Be (z=4), Mg (z=12)
+Sol.:
+C<Si<Al
+Be<Mg<Na
+23
+24
+
+
+--- PAGE 13 ---
+1/7/2022
+13
+25
+Ionic Radius
+• Same trends as for atomic radius
+• Positive ions smaller than atom
+• Negative ions larger than atom
+ r (A+) < r (A) < r (A-) 
+26
+Ionic Radius
+Isoelectronic Series
+• Series of negative ions, noble gas atom, and
+positive
+ions
+with
+the
+same
+electronic
+configuration
+• Size decreases as “positive charge” of the
+nucleus increases
+25
+26
+
+
+--- PAGE 14 ---
+1/7/2022
+14
+27
+Ionic Radius
+28
+Ionic Radius
+20Ca, 19K, 13Al, 34Se, 35Br, 52Te
+27
+28
+
+
+--- PAGE 15 ---
+1/7/2022
+15
+29
+Ionization Energy
+• The first ionization energy (IE1) of an atom is
+minimum energy needed to remove the highest-
+energy electron from the neutral atom in the
+gaseous state.
+• In general, within each period, IE1 value tend to
+increase with atomic number.
+• The first ionization energy tend to decrease in
+going
+down
+any
+column
+of
+main-
+group
+elements.
+30
+Ionization Energy vs. Atomic Number
+29
+30
+
+
+--- PAGE 16 ---
+1/7/2022
+16
+31
+Ionization Energy
+• High value for non-metals, electrons difficult to
+remove.
+• Increases from lower left corner of periodic table to
+the upper right corner.
+• The second ionization energy (IE2) is the amount
+of energy required to remove the second electron.
+For given element, IE2 is always greater than IE1
+32
+Ionization Energy
+Example:
+31
+32
+
+
+--- PAGE 17 ---
+1/7/2022
+17
+33
+Deviations:
+¾ A IIIA element (ns2np1) has smaller IE than the
+preceding IIA element (ns2).
+Apperently, the np electron of the IIIA element
+is more
+easily removed than one of
+the ns electron of the IIA
+element.
+¾ A VIA element (ns2np4) has smaller IE than the preceding
+VA element (ns2np3).
+As a result of electron repulsion, it is easier to remove an
+electron from the doubly occupied np orbital of the VIA
+element than from a singly occupied orbital of the VA
+element.
+Ionization Energy
+34
+Example:
+Arrange the following elements in order of increasing first 
+ionization energy. Justify your order.
+Na (z=11), Mg (z=12), Al (z=13), Si (z=14)
+Sol.:
+Si (Z=14), e- configuration: 1s2 2s2 2p6 3s2 3p2
+IE1 (Na)< IE1 (Mg),      IE1 (Al) < IE1 (Si)
+Al (1s2 2s2 2p6 3s2 3p1) Æ IE1 (Al) < IE1 (Mg)
+Thus:
+IE1 (Na)< IE1 (Al)< IE1 (Mg)< IE1 (Si)
+Ionization Energy
+33
+34
+
+
+--- PAGE 18 ---
+1/7/2022
+18
+35
+Exercise:
+Arrange  the  members  of  each  of  the  following elements 
+in order of increasing first ionization energies: 
+35Br, 9F,31Ga, and 55Cs.
+Cs<Ga<Br<F
+Ionization Energy
+36
+Electron Affinity
+• Energy released when an electron is added to an
+neutral atom.
+• The electron affinity (EA) is the energy change
+for the process of adding an electron to the
+neutral
+atom
+in
+the
+gaseous
+state
+to
+form
+negative ion.
+• If the negative ion is stable, the energy change
+for its formations is negative number.
+• Large negative numbers indicate that a very
+stable negative ions formed.
+35
+36
+
+
+--- PAGE 19 ---
+1/7/2022
+19
+37
+Electron Affinity
+• Same trends as ionization energy, increases from 
+lower left corner to the upper right corner.
+• Metals have low “EA”.
+• Nonmetals have high “EA”.
+38
+Electron Affinity
+37
+38
+
+

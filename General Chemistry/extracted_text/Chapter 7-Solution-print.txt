@@ -1,0 +1,616 @@
+--- PAGE 1 ---
+1/7/2022
+1
+GENERAL CHEMISTRY
+Chapter 7
+Chapter 7
+Properties of Solutions
+9 Dissolution of solid in liquids
+9 Dissolution of liquids in liquids
+9 Dissolution of gases in liquids
+9 Effect of temperature on solubility
+9 Effect of pressure on solubility
+9 Concentration
+9 Boiling point elevation
+9 Freezing Point depression
+9 Osmotic Pressure
+f solid in liquids
+The Solution 
+1
+2
+
+
+--- PAGE 2 ---
+1/7/2022
+2
+A solution is a homogeneous mixture of solute (present in
+smallest amount) and solvent (present in largest amount).
+9 Solution may be gas, liquid, or solids.
+9 Solvent is the substances used to dissolve the solute.
+homogeneous mixture of so
+The Solution 
+AQUEOUS SOLUTIONS
+The solvent is generally in excess.
+ Example:
+The
+solution
+NaCl(aq)
+is
+sodium
+chloride NaCl(s)
+dissolved in water H2O(l).
+The solute is NaCl(s) and the solvent is H2O(l).
+3
+4
+
+
+--- PAGE 3 ---
+1/7/2022
+3
+Saturated solution
+ Saturated means that the maximum amount is
+dissolved in the solution, under normal conditions.
+Dissolve: solute + solvent o solution
+ In a saturated solution, the solvent contains the
+maximum amount of solute.
+ Example: At 90oC, 40 g of NaCl(s) in 100g H2O(l)
+represent a saturated solution.
+Unsaturated solution
+In an unsaturated solution, the solvent contains less
+than the maximum amount of solute.
+Example:
+9
+At 90oC, 30 g of NaCl(s) in 100g H2O(l) represent an
+unsaturated solution.
+9
+If adding 10 g of NaCl(s) into that solution, the saturated
+solution will be form.
+5
+6
+
+
+--- PAGE 4 ---
+1/7/2022
+4
+Supersaturated solution
+ In a supersaturated solution, the solvent contains
+more than the maximum amount of solute.
+ A supersaturated solution is very unstable and the
+amount in excess can precipitate or crystallize.
+ Crystallization: solution o solute + solvent
+Example:
+At 90oC, 50 g of NaCl(s) in 100g H2O(l)
+represent a supersaturated solution. Eventually, 10 g of
+NaCl(s) will precipitate.
+Solubility
+ Solubility: amount of solute required to form a
+saturated solution.
+ The solubility of a solute in a given amount of solvent
+is dependent on:
+9 The temperature,
+9 The pressure,
+9 And the chemical natures of the solute and solvent.
+7
+8
+
+
+--- PAGE 5 ---
+1/7/2022
+5
+9 In general, as the temperature of a solution
+increases the solubility increases.
+9 Example:
+Increasing
+the
+solution temperature
+allows more sugar to go into solution.
+9 Therefore, it is an endothermic process (heat is on
+the reactant side).
+Effect of Temperature on Solubility
+Effect of Temperature on Solubility
+ Solid in liquid:
+9 Endothermic dissolving: Solubility increases with
+increasing temperature.
+9 Exothermic dissolving: solubility decreases with
+increasing temperature.
+ Many ionic solids dissolve by endothermic processes.
+Æ As temperature increases, solubility of solids
+generally increases.
+ For example, KCl dissolves endothermically.
+ Sometimes,
+solubility
+decreases
+as
+temperature
+increases (e.g. Ce2(SO4)3, Cerous Sulfate).
+9
+10
+
+
+--- PAGE 6 ---
+1/7/2022
+6
+Effect of Temperature on Solubility
+Effect of Temperature on Solubility
+ Liquid in liquid:
+9 For
+partially
+dissolving
+liquids
+like
+dimethyl
+ether(CH3-O-CH3 ) in
+water (H2O),
+solubilty
+increases with increasing temperature.
+9 For a completely dissolving liquids like ethyl alcohol
+(C2H5OH) in water( H2O), solubility decreases with
+increasing temperature.
+11
+12
+
+
+--- PAGE 7 ---
+1/7/2022
+7
+Effect of Temperature on Solubility
+ Gas in liquid:
+9 Solubility of a gas in a liquid almost always decreases
+with increasing temperature.
+9 The reason: Increased temperature causes an increase
+in kinetic energy. The higher kinetic energy causes
+more
+motion
+in
+molecules
+which
+break
+intermolecular bonds and escape from solution.
+ Liquids and solids exhibit practically no change of solubility
+with changes in pressure.
+ The solubility of a gas increases as the pressure increases.
+9 If the pressure is increased, the gas molecules are "forced"
+into the solution.
+9 The number of gas molecules dissolved in solution has
+increased.
+Li
+id
+d
+lid
+hibit
+ti
+ll
+h
+f
+l bilit
+Effect of Gas Pressure on Solubility
+13
+14
+
+
+--- PAGE 8 ---
+1/7/2022
+8
+ All carbonated beverages are bottled under pressure to
+increase the carbon dioxide dissolved in solution.
+ When the bottle is opened, the pressure above the
+solution decreases. As a result, the solution effervesces
+and some of the carbon dioxide bubbles off.
+ Quiz: Champagne continues to ferment in the bottle.
+The fermentation produces CO2. Why is the cork wired
+on a bottle of champagne?
+ Answer: As more CO2 is formed , the pressure of the
+gas increase.The wire is to prevent the cork from
+blowing off.
+ All carbonated beverages are bottled under pressure to
+Effect of Gas Pressure on Solubility
+The e rate of solution
+
+The rate of solution is a measure of how fast a substance
+dissolves.
+Some of the factors determining the rate of
+solution are:
+9 Size of the particles: When a solute dissolves, the action
+takes place only at the surface of each particle. When the
+total surface area of the solute particles is increased, the
+solute dissolves more rapidly.
+9 Æ Breaking a solute into smaller pieces increases its
+surface area and hence its rate of solution.
+9 Stirring: With liquid and solid solutes, stirring brings fresh
+portions of the solvent in contact with the solute, thereby
+increasing the rate of solution.
+15
+16
+
+
+--- PAGE 9 ---
+1/7/2022
+9
+ Amount of solute already dissolved:
+9 When there is little solute already in solution,
+dissolving takes place relatively rapidly.
+9 As the solution approaches the point where no
+solute can be dissolved, dissolving takes place
+more slowly.
+ Temperature:
+For
+solid, liquid
+and
+gaseous
+solutes, changing
+the temperature not only
+changes the amount of solute that will dissolve
+but also changes the rate at which the solute will
+dissolve.
+The e rate of dissolving
+Chemical natures of the solute and 
+atures of th
+solvent
+ A polar solute will dissolve in a polar solvent but
+not in a nonpolar solvent. The adage "like dissolves
+like" is very useful.
+9Polar solute/polar solvent: ethanol, salt, sugar
+in water.
+9Nonpolar solute/nonpolar solvent: Iodine in
+carbontetrachloride, gasoline or benzene.
+Example:
+9Alcohol dissolves in water.
+9Water does not dissolve in oil.
+17
+18
+
+
+--- PAGE 10 ---
+1/7/2022
+10
+ Mass Percentage
+ ppm
+ ppb
+ Mole Fraction
+ Molarity
+ and Molality
+Concentration
+100
+solution
+ 
+of
+ 
+mass
+ 
+total
+solution
+in 
+component 
+ 
+of
+ 
+mass
+component
+ 
+of
+ 
+%
+ 
+mass
+u
+ 
+6
+10
+solution
+ 
+of
+ 
+mass
+ 
+total
+solution
+in 
+component 
+ 
+of
+ 
+mass
+component
+ 
+of
+ 
+ppm
+u
+ 
+• Parts per million (ppm) can be expressed as 1 mg of 
+solute per kilogram of solution.  
+– If the density of the solution is 1g/mL, then 1 ppm = 1 mg 
+solute per liter of solution.
+Ways of Expressing Concentration
+19
+20
+
+
+--- PAGE 11 ---
+1/7/2022
+11
+9
+10
+solution
+ 
+of
+ 
+mass
+ 
+total
+solution
+in 
+component 
+ 
+of
+ 
+mass
+component
+ 
+of
+ 
+ppb
+u
+ 
+• Parts per billion (ppb) are 1 Pg of solute per kilogram 
+of solution.
+Concentration
+solution
+ 
+of
+ 
+moles
+ 
+total
+solution
+in 
+component 
+ 
+of
+ 
+moles
+component
+ 
+of
+fraction 
+ 
+Mole
+ 
+solution
+ 
+of
+ 
+liters
+solute
+ 
+moles
+Molarity 
+Concentration
+solvent
+ 
+of
+ 
+kg
+solute
+ 
+moles
+ 
+Molality,
+ 
+m
+21
+22
+
+
+--- PAGE 12 ---
+1/7/2022
+12
+Practice Problems
+Practice Problems
+23
+24
+
+
+--- PAGE 13 ---
+1/7/2022
+13
+Practice Problems
+Practice Problems
+1) A solution containing equal masses of glycerol,
+C3H8O3, and water has a density of 1.10g/mL. Calculate
+the: (a) Molarity, (b) Mole Fraction of glycerol, (c)
+Molality of the solution.
+2) Calculate the percent by mass of CaCl2 in a solution
+containing 5.2g CaCl2 in 450g of water.
+3) Calculate the ppm, by mass, of CaCl2 in a solution
+containing 0.149 moles of CaCl2 in 443g of water.
+25
+26
+
+
+--- PAGE 14 ---
+1/7/2022
+14
+Practice Problems
+1) Calculate the molarity when 0.020 moles of
+glycerol, C3H8O3, is dissolved in 50 g of water at
+room temperature.
+Water has a density of
+1.00g/mL.
+Practice Problem
+1)A 0.500 L hydrochloric acid (HCl) solution,
+which has a density of 1.10 g/mL, contains 36%
+HCl by mass. Calculate the mole fraction of HCl.
+2) A solution containing equal masses of NaCl and
+water has a density of 1.10g/mL.
+Calculate the
+molality of the solution.
+3) Calculate the ppm, by mass, of CaCl2 in a
+solution containing 0.149 moles of CaCl2 in 443g
+of water.
+27
+28
+
+
+--- PAGE 15 ---
+1/7/2022
+15
+Pressure Effects:
+• Henry’s Law:
+• Where:
+Sg is the solubility of a gas,
+k is a constant,
+and Pg is the partial pressure of a gas.
+g
+g
+kP
+S
+ 
+Solubility of a Gas
+Raoult’s Law
+O
+solvent
+solvent
+solvent
+P
+Χ
+P
+ 
+29
+30
+
+
+--- PAGE 16 ---
+1/7/2022
+16
+Raoult’s Law
+Raoult’s Law
+31
+32
+
+
+--- PAGE 17 ---
+1/7/2022
+17
+ At the normal boiling point of pure liquid, the vapor
+pressure the solution will be < 1atm. Therefore, a higher
+temperature, 'Tb, is required to attain a vapor pressure
+of 1 atm for the solution.
+ Molal boiling-point-elevation constant, Kb, expresses
+how much 'Tb changes with molality, m:
+ Kb is dependent only on the solvent used in the making
+of the solution.
+Boiling-Point Elevation
+m
+K
+T
+b
+b 
+'
+Boiling-Point Elevation
+33
+34
+
+
+--- PAGE 18 ---
+1/7/2022
+18
+ The freezing point is the temperature at which the first
+crystal forms.
+ The change in freezing point can be defined by:
+ Kf is the molal freezing-point-depression constant.
+ Kf is dependent only on the solvent used in the making of
+the solution.
+f
+i
+i t i th
+t
+t
+t
+hi h th
+Freezing Point Depression
+m
+K
+T
+f
+f
+u
+ 
+'
+Freezing Point Depression
+35
+36
+
+
+--- PAGE 19 ---
+1/7/2022
+19
+ Osmosis: the movement of a solvent from low solute
+concentration to high solute concentration.
+ Semipermeable membrane: permits passage of some
+components of a solution. Example: cell membranes
+ There
+is
+movement
+in
+both
+directions
+across
+a
+semipermeable membrane.
+ As solvent moves across the membrane, the fluid levels
+becomes uneven.
+Osmosis
+Osmosis
+37
+38
+
+
+--- PAGE 20 ---
+1/7/2022
+20
+ Osmotic pressure, S, is the pressure required to stop osmosis:
+ Isotonic solutions: two solutions with the same S separated by a
+semipermeable membrane.
+ Hypotonic solutions: a solution of lower S with respects to the
+more concentrated solution.
+ The osmotic process is spontaneous.
+i th
+i d t
+t
+Osmotic Pressure
+MRT
+RT
+V
+n
+nRT
+V
+ 
+¸¹
+·
+¨©
+§
+ 
+S
+ 
+S
+Osmotic Pressure
+39
+40
+
+
+--- PAGE 21 ---
+1/7/2022
+21
+THE pH AND pOH SCALES
+ The pH and pOH scales provide a convenient way
+to express the acidity and basicity of dilute aqueous
+solutions. The
+pH and
+pOH of a solution are
+defined as
+THE pH AND pOH SCALES
+41
+42
+
+

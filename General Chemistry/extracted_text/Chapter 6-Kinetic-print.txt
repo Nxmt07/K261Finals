@@ -1,0 +1,487 @@
+--- PAGE 1 ---
+1/7/2022
+1
+GENERAL CHEMISTRY
+Chapter 6
+Chemical Kinetics
+Kinetics is the study of how fast chemical reactions
+occur.
+There are 4 important factors which affect the rates of
+chemical reactions:
+9reactant concentration,
+9temperature,
+9action of catalysts, and
+9surface area.
+Kinetics
+1
+2
+
+
+--- PAGE 2 ---
+1/7/2022
+2
+• The speed of a reaction is defined as the change that occurs 
+per unit time.
+• It is determined by measuring the change in concentration of a 
+reactant or product with time.
+• The speed the of the reaction is called the reaction rate.
+• For a reaction A o B:
+• Suppose A reacts to form B.  Let us begin with 1.00 mol A.
+a reaction is defined as the change
+Reaction Rates
+
+
+t
+'
+'
+ 
+ 
+B
+ 
+of
+ 
+moles
+in time
+ 
+change
+B
+ 
+of
+ 
+moles
+ 
+of
+number 
+in 
+ 
+change
+rate
+ 
+Average
+– At t = 0 (time zero) there is 1.00 mol A and no B present.
+– At t = 10 min, there is 0.54 mol A and 0.26 mol B.
+– At t = 20 min, there is 0.30 mol A and 0.70 mol B.
+– Calculating,
+
+
+
+ 
+
+mol/min
+ 
+026
+.0
+min
+ 0
+min
+ 
+10
+mol
+ 0 
+mol
+ 
+26
+.0
+min
+ 0
+min
+ 
+10
+0
+at 
+ 
+B
+ 
+of
+ 
+moles
+10
+at 
+ 
+B
+ 
+of
+ 
+moles
+B
+ 
+of
+ 
+moles
+rate
+ 
+Average
+ 
+
+
+ 
+
+ 
+
+ 
+ 
+'
+'
+ 
+t
+t
+t
+Reaction Rates
+3
+4
+
+
+--- PAGE 3 ---
+1/7/2022
+3
+For the reaction A o B there are two ways of measuring 
+rate:
+9 the speed at which the products appear (i.e. change in moles of
+B per unit time), or
+9 the speed at which the reactants disappear (i.e. the change in
+moles of A per unit time).
+• The equation, when calculating rates of reactants, is multiplied
+by -1 to compensate for the negative concentration.
+
+
+t
+'
+'
+
+ 
+A
+ 
+of
+ 
+moles
+A
+ 
+respect to
+ with 
+rate
+ 
+Average
+Reaction Rates
+• In general :
+aA + bB o cC + dD
+Reaction Rates and Stoichiometry
+>
+@
+>
+@
+t
+t
+'
+'
+ 
+'
+'
+
+ 
+OH
+H
+C
+Cl
+H
+C
+Rate
+9
+4
+9
+4
+> @
+> @
+> @
+> @
+t
+d
+t
+c
+t
+b
+t
+a
+'
+'
+ 
+'
+'
+ 
+'
+'
+
+ 
+'
+'
+
+ 
+D
+1
+C
+1
+B
+1
+A
+1
+Rate
+• For the reaction:
+C4H9Cl(aq) + H2O(l) o C4H9OH(aq) + HCl(aq)
+5
+6
+
+
+--- PAGE 4 ---
+1/7/2022
+4
+The rate-law expression for a reaction in which A, B, . . . are 
+reactants:
+9 The constant k: the specific rate constant (or the rate constant)
+for the reaction at a particular temperature
+9 x and y: no necessary relationship to the coefficients in the
+balanced chemical equation for the overall reaction and must
+be determined experimentally.
+Reaction Rates and Stoichiometry
+Reaction Rates and Stoichiometry
+9 x and y are usually integers or zero but are occasionally
+fractional or even negative.
+9 A power of one means that the rate is directly proportional to
+the concentration of that reactant.
+9 A power of two means that the rate is directly proportional to
+the square of that concentration.
+9 A power of zero means that the rate does not depend on the
+concentration of that reactant, so long as some of the reactant
+is present.
+7
+8
+
+
+--- PAGE 5 ---
+1/7/2022
+5
+Reaction Rates and Stoichiometry
+Reaction Rates and Stoichiometry
+9
+10
+
+
+--- PAGE 6 ---
+1/7/2022
+6
+• For the reaction
+NH4
++(aq) + NO2
+-(aq) o N2(g) + 2H2O(l)
+we note
+– as [NH4
++] doubles with [NO2
+-] constant the rate doubles,
+– as [NO2
+-] doubles with [NH4
++] constant, the rate doubles,
+– We conclude rate v [NH4
++][NO2
+-].
+• Rate law:
+• The constant k is the rate constant.
+]
+NO
+][
+NH
+[
+Rate
+2
+4
+
+
+ k
+Reaction Rates and Stoichiometry
+• For a general reaction with rate law
+we say the reaction is mth order in reactant 1 and nth
+order in reactant 2.
+• The overall order of reaction is m + n + ….
+n
+m
+k
+]
+2
+reactant 
+[
+]1
+reactant 
+[
+Rate 
+Reaction Rates and Stoichiometry
+11
+12
+
+
+--- PAGE 7 ---
+1/7/2022
+7
+• A reaction is zero order in a reactant if the change in 
+concentration of that reactant produces no effect.
+• A reaction is first order if doubling the concentration 
+causes the rate to double.
+• A reaction is nth order if doubling the concentration 
+causes an 2n increase in rate.
+• Note that the rate constant does not depend on 
+concentration.
+Reaction Rates and Stoichiometry
+Reaction Rates and Stoichiometry
+Example:
+13
+14
+
+
+--- PAGE 8 ---
+1/7/2022
+8
+First Order Reactions
+• Goal: convert rate law into a convenient equation to give 
+concentrations as a function of time.
+Concentration Change with Time
+> @
+> @
+> @
+> @
+kt
+kt
+k
+t
+t
+t
+
+ 
+¸¸
+¹
+·
+¨¨
+©
+§
+
+ 
+
+ 
+'
+'
+
+ 
+0
+0
+A
+A
+ln
+A
+ln
+A
+ln
+]
+A
+[
+A]
+[
+Rate
+First Order Reactions
+• Half-life is the time taken for the concentration of a 
+reactant to drop to half its original value.
+• For a first order process, half life, t½ is the time taken for 
+[A] to reach ½[A]0.
+• Mathematically defined by:
+• The half-life for a 1st order reactions depends only on k
+Half-
+First Order R
+Life Reactions
+ 
+k
+k
+t
+693
+.0
+ln 2
+1
+2
+1
+ 
+
+ 
+15
+16
+
+
+--- PAGE 9 ---
+1/7/2022
+9
+Compound A decomposes to form B and C in a reaction. At 25°C, 
+the specific rate constant for the reaction is 0.0450 s-1. What is the 
+half-life of A at 25°C?
+Second Order Reactions
+• Goal: convert rate law into a convenient equation to give 
+concentrations as a function of time.
+Concentration Change with Time
+> @
+> @0
+A
+1
+A
+1
+
+ kt
+t
+17
+18
+
+
+--- PAGE 10 ---
+1/7/2022
+10
+Second Order
+• Mathematically defined by: 
+• A second order reaction’s half-life depends on the initial 
+concentration of the reactants
+Halflf-
+Sec
+f-f Life Reaction
+> @0
+A
+1
+2
+1
+k
+t
+ 
+EXAMPLE 16-7 
+Compounds A and B react to form C and D in a reaction . The rate 
+constant at 30°C is 0.622 liter per mole per minute. What is the 
+half-life of A when 4.10u10-2MA is mixed with excess B?
+19
+20
+
+
+--- PAGE 11 ---
+1/7/2022
+11
+• Arrhenius discovered most reaction-rate data obeyed the 
+Arrhenius equation:
+• k is the rate constant, Ea is the activation energy, R is the 
+gas constant (8.314 J/K-mol) and T is the temperature in 
+K.
+• A is called the frequency factor.
+– A is a measure of the probability of a favorable collision.
+• Both A and Ea are specific to a given reaction.
+The Arrhenius Equation
+RT
+Ea
+Ae
+k
+
+ 
+21
+22
+
+
+--- PAGE 12 ---
+1/7/2022
+12
+23
+
+
